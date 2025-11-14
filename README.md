@@ -83,21 +83,21 @@ El proyecto incluye todas las validaciones pedidas en clase y algunas adicionale
 
 ### PASO 1: Clonar el repositorio
 
-git clone https://github.com/mateo293/Entrega-Desarrollo-Web.git
+- git clone https://github.com/mateo293/Entrega-Desarrollo-Web.git
 
-cd Entrega-Desarrollo-Web
+- cd Entrega-Desarrollo-Web
 
 ## BACKEND (JSON SERVER)
 
 ### PASO 2: Instalar dependencias
 
-cd backend
+- cd backend
 
-npm install
+- npm install
 
 ### PASO 3: Iniciar backend
 
-npm start
+- npm start
 
 El backend se ejecuta en:
 http://localhost:3001/
@@ -105,11 +105,12 @@ http://localhost:3001/
 ## FRONTEND (REACT)
 
 ### PASO 4: Instalar dependencias
-cd ../frontend
-npm install
+- cd ..
+- cd frontend
+- npm install
 
 ### PASO 5: Iniciar frontend
-npm start
+- npm start
 
 El frontend se ejecuta en:
 http://localhost:3000/
@@ -117,21 +118,21 @@ http://localhost:3000/
 ---
 # TECNOLOGÍAS UTILIZADAS
 
-React
-React Router
-JSON Server
-Node.js
-HTML
-CSS
-JavaScript
+- React
+- React Router
+- JSON Server
+- Node.js
+- HTML
+- CSS
+- JavaScript
 
 ---
 # AUTOR
 
-Cristian Mateo Castro Perfetti
-Entrega para la asignatura Desarrollo Web.
-Universidad del Cauca
-Año 2025
+- Cristian Mateo Castro Perfetti
+- Entrega para la asignatura Desarrollo Web.
+- Universidad del Cauca
+- Año 2025
 
 ---
 LICENCIA
