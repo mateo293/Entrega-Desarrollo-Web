@@ -79,42 +79,43 @@ El proyecto incluye todas las validaciones pedidas en clase y algunas adicionale
 - reactiva un rol si existe y está inactivo
 
 ---
-## INSTALACIÓN Y EJECUCIÓN
+# INSTALACIÓN Y EJECUCIÓN
 
-PASO 1: Clonar el repositorio
+### PASO 1: Clonar el repositorio
+
 git clone https://github.com/mateo293/Entrega-Desarrollo-Web.git
 
 cd Entrega-Desarrollo-Web
 
-BACKEND (JSON SERVER)
+## BACKEND (JSON SERVER)
 
-PASO 2: Instalar dependencias
+### PASO 2: Instalar dependencias
 
 cd backend
 
 npm install
 
-PASO 3: Iniciar backend
+### PASO 3: Iniciar backend
 
 npm start
 
 El backend se ejecuta en:
 http://localhost:3001/
 
-FRONTEND (REACT)
+## FRONTEND (REACT)
 
-PASO 4: Instalar dependencias
+### PASO 4: Instalar dependencias
 cd ../frontend
 npm install
 
-PASO 5: Iniciar frontend
+### PASO 5: Iniciar frontend
 npm start
 
 El frontend se ejecuta en:
 http://localhost:3000/
 
 ---
-## TECNOLOGÍAS UTILIZADAS
+# TECNOLOGÍAS UTILIZADAS
 
 React
 React Router
@@ -125,7 +126,7 @@ CSS
 JavaScript
 
 ---
-## AUTOR
+# AUTOR
 
 Cristian Mateo Castro Perfetti
 Entrega para la asignatura Desarrollo Web.
