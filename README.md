@@ -89,10 +89,13 @@ cd Entrega-Desarrollo-Web
 BACKEND (JSON SERVER)
 
 PASO 2: Instalar dependencias
+
 cd backend
+
 npm install
 
 PASO 3: Iniciar backend
+
 npm start
 
 El backend se ejecuta en:
