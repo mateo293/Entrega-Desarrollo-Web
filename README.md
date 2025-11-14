@@ -115,6 +115,9 @@ http://localhost:3001/
 El frontend se ejecuta en:
 http://localhost:3000/
 
+El usuario inicial es admin y la contraseña admin
+
+
 ---
 # TECNOLOGÍAS UTILIZADAS
 
